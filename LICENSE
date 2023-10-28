@@ -1,5 +1,10 @@
 MIT License
 
+ONLY APPLIES TO:
+- images/*
+- images.h
+- spot_welder.ino
+
 Copyright (c) 2023 Etn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
